@@ -26,7 +26,7 @@ The **AI-Powered Classroom Engagement Monitor** is a tool designed to evaluate a
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/engagement-monitor.git
+   git clone https://github.com/abhibarnwal707/Engagement-Monitor.git
    cd engagement-monitor
    
 2. **Install Dependencies:**:
