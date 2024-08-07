@@ -1,0 +1,10 @@
+opencv-python
+torch
+transformers
+facenet-pytorch
+streamlit
+Pillow
+matplotlib
+seaborn
+moviepy
+dlib
