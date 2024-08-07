@@ -40,7 +40,7 @@ The **AI-Powered Classroom Engagement Monitor** is a tool designed to evaluate a
    pip install -r requirements.txt
   ```
 3. ***Download dlib's Shape Predictor Model:***:
-   This [repository][https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/README.md] contains the compiled binary (.whl) files for the Dlib library to install on Python versions 3.7, 3.8, 3.9, 3.10, 
+   This [repository] [https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/README.md] contains the compiled binary (.whl) files for the Dlib library to install on Python versions 3.7, 3.8, 3.9, 3.10, 
    3.11, and 3.12 on a Windows x64 OS.
   For Python 3.11
   ```bash
